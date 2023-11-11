@@ -1,0 +1,2 @@
+{"No Label": "0.5499999999", "House Sparrow": "0.0190832774", "House Finch": "0.3865799738"}
+{"No Label": "0.6123874675", "House Sparrow": "0.0213457547", "House Finch": "0.3677646736"}
